@@ -6,29 +6,44 @@ author_profile: true
 
 <h2 id="publications">Publications</h2>
 
-<p>
-<img width="178" align="left" style="margin-right: 15px; margin-bottom: 10px;" src="{{ '/images/papers/component-modes.png' | relative_url }}" />
-<strong>Component Modes Synthesis Method with Multiple Partitions for Large-scale Eigenvalue Problem</strong><br />
-<strong>Chongyao Zhao</strong>, Junzhou Yin, Hujun Bao, Jin Huang<br />
+<!-- Paper 1: Component Modes Synthesis -->
+<table style="margin-bottom: 30px; width: 100%;">
+<tr>
+<td style="width: 220px; vertical-align: top; padding-right: 20px;">
+<img width="200" src="{{ '/images/papers/component-modes.png' | relative_url }}" style="border: 1px solid #ddd; border-radius: 4px;" />
+</td>
+<td style="vertical-align: top;">
+<strong style="font-size: 1.1em;">Component Modes Synthesis Method with Multiple Partitions for Large-scale Eigenvalue Problem</strong><br /><br />
+<strong>Chongyao Zhao</strong>, Junzhou Yin, Hujun Bao, Jin Huang<br /><br />
 <em>SIGGRAPH 2026 Journal track (ACM Transactions on Graphics)</em>
-</p>
+</td>
+</tr>
+</table>
 
-<div style="clear: both; margin-bottom: 20px;"></div>
-
-<p>
-<img width="178" align="left" style="margin-right: 15px; margin-bottom: 10px;" src="{{ '/images/papers/element-aggregation.png' | relative_url }}" />
-<strong>Local element aggregation for badly-shaped elements</strong><br />
-<strong>Chongyao Zhao</strong>, Junxi Zhang, Hujun Bao, Jin Huang<br />
+<!-- Paper 2: Local Element Aggregation -->
+<table style="margin-bottom: 30px; width: 100%;">
+<tr>
+<td style="width: 220px; vertical-align: top; padding-right: 20px;">
+<img width="200" src="{{ '/images/papers/element-aggregation.png' | relative_url }}" style="border: 1px solid #ddd; border-radius: 4px;" />
+</td>
+<td style="vertical-align: top;">
+<strong style="font-size: 1.1em;">Local element aggregation for badly-shaped elements</strong><br /><br />
+<strong>Chongyao Zhao</strong>, Junxi Zhang, Hujun Bao, Jin Huang<br /><br />
 <em>ACM Transactions on Graphics (Under Revision)</em>
-</p>
+</td>
+</tr>
+</table>
 
-<div style="clear: both; margin-bottom: 20px;"></div>
-
-<p>
-<img width="178" align="left" style="margin-right: 15px; margin-bottom: 10px;" src="{{ '/images/papers/cosserat-rods.png' | relative_url }}" />
-<strong>Efficient and Stable Simulation of Inextensible Cosserat Rods by a Compact Representation</strong><br />
-<strong>Chongyao Zhao</strong>, Jinkeng Lin, Tianyu Wang, Hujun Bao, Jin Huang<br />
+<!-- Paper 3: Cosserat Rods -->
+<table style="margin-bottom: 30px; width: 100%;">
+<tr>
+<td style="width: 220px; vertical-align: top; padding-right: 20px;">
+<img width="200" src="{{ '/images/papers/cosserat-rods.png' | relative_url }}" style="border: 1px solid #ddd; border-radius: 4px;" />
+</td>
+<td style="vertical-align: top;">
+<strong style="font-size: 1.1em;">Efficient and Stable Simulation of Inextensible Cosserat Rods by a Compact Representation</strong><br /><br />
+<strong>Chongyao Zhao</strong>, Jinkeng Lin, Tianyu Wang, Hujun Bao, Jin Huang<br /><br />
 <em>Pacific Graphics 2022 (Computer Graphics Forum)</em>
-</p>
-
-<div style="clear: both;"></div>
+</td>
+</tr>
+</table>
