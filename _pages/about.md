@@ -29,6 +29,9 @@ author_profile: true
 </td>
 <td style="vertical-align: middle; border: none;">
 <strong style="font-size: 1.1em;">Local element aggregation for badly-shaped elements</strong><br /><br />
+<strong>Chongyao Zhao</strong>, Junxi Zhang, Hujun Bao, Jin Huang
+</td>
+<strong style="font-size: 1.1em;">Local element aggregation for badly-shaped elements</strong><br /><br />
 <strong>Chongyao Zhao</strong>, Junxi Zhang, Hujun Bao, Jin Huang<br /><br />
 <em>ACM Transactions on Graphics (Under Revision)</em>
 </td>
