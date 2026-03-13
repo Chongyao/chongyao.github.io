@@ -26,6 +26,14 @@ author:
   name             : "Chongyao Zhao/ 赵崇遥"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
+  location         : "Hangzhou, China"
+  employer         : "Zhejiang University"
+  uri              : # URL
+  email            : "your.email@example.com" 
+  avatar           : "profile.png"
+  name             : "Chongyao Zhao/ 赵崇遥"
+  pronouns         : # example: "she/her"  
+  bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
   employer         : "Red Brick University"
   uri              : # URL
